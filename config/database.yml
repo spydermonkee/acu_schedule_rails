@@ -1,0 +1,18 @@
+
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: acu_schedule_development
+  pool: 5
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: acu_schedule_test
+  pool: 5
+
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: acu_schedule_production
+  pool: 5
