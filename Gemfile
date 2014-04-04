@@ -10,4 +10,5 @@ gem 'coffee-rails'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
-
+gem 'rspec-rails'
+gem 'shoulda-matchers'
